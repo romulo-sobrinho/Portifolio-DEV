@@ -1,8 +1,9 @@
 ![front-end developer logo](https://user-images.githubusercontent.com/68918326/148388536-237f9a6b-5f41-4c8f-9a8c-7c713a0ba15b.PNG)
 
 <hr>
-<h3 align="center">🚧PÁGINA EM CONSTRUÇÃO🚧</h3>
+<h3 align="center">🎖️PROJETO FINALIZADO🎖️</h3>
 <hr>
+
 
 <h1 align="center">Portifólio Pessoal</h1>
 <br>
@@ -38,5 +39,5 @@
 ![portifólio](https://user-images.githubusercontent.com/68918326/156904839-4a6ae9f1-f265-4b19-a7c2-77ced4df38f4.PNG)
 
 <hr>
-<h3 align="center">🚧PÁGINA EM CONSTRUÇÃO🚧</h3>
+<h3 align="center">🎖️PROJETO FINALIZADO🎖️</h3>
 <hr>
